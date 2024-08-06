@@ -21,3 +21,13 @@ When viewed in a browser, each headlines has a distinct visual effect.
 # HTML FORMATTING
 HTML contains several elements for defining text with a special meaning.
 There are several formatting elements, which are (bold,italic,subscript,superscript,important,emphazised,smallest, marked)texts.
+# HTML WORKING WITH GRAPHICS AND IMAGES
+When we want to add an image to a webpage, we use the image element, which is simply written as IMG. 
+First, we have the source attribute (SRC), which tells the browser which image file to load. 
+We also have the alt attribute (ALT), which provides a text description of the image. 
+Lastly, we have the width and height attributes, which determine the size of the image. So, every image should have all four of these attributes.
+The image's URL is pasted into the source, as can be seen in the example, and then the image starts loading.
+There are four main file formats commonly used on the web these days, each with its own strengths and weaknesses when it comes to compressing images.And those four main file formats are: GIF, SVG, JPG, PNG.
+CSS offers a solution for displaying images in different sizes to accommodate both large screens and small screens.
+HTML allows us to deliver different image files to screens of different sizes.
+# HTML WORKING WITH MEDIA
